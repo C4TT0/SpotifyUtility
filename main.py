@@ -24,7 +24,7 @@ banner = '''
 [1] Download Playlist [ Using Playlist Id ]
 [99] Exit
 
-To know about how to get Playlist Id visit: [Github Link] 
+To know about how to get Playlist Id visit: https://github.com/Typh0n12/SpotifyPlaylistDownloader
 
 NOTE: You can only download playlists using this, attempting to download albums, individual songs etc will result in an error. This script uses youtube to search and download songs, results may vary.
 
