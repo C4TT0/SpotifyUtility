@@ -13,12 +13,12 @@ git clone https://github.com/Typh0n12/SpotifyPlaylistDownloader.git
 ```
 2. Install it by changing the directory to SpotifyPlaylistDownloader
 ```
+cd SpotifyPlaylistDownloader
 python3 setup.py install
 ```
 3. Check for folder. If ./Audio dose not exist then create one in ./SpotifyPlaylistDownloader
 4. Run the script
-```
-cd SpotifyPlaylistDownloader 
+``` 
 python3 main.py
 ```
 
