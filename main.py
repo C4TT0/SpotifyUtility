@@ -33,8 +33,9 @@ Github : https://www.github.com/Typh0n12
 '''
 
 # Oauth
-
-auth_manager = SpotifyClientCredentials(client_id='9968e7b74a724a03bced06a465c14663', client_secret='0a07f456aa2347fcbc42476be70e4aac')
+# Follow the steps here: https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b
+# Or get your client ID and secret by going to https://developer.spotify.com/dashboard
+auth_manager = SpotifyClientCredentials(client_id='{ID}', client_secret='{SECRET}')
 sp = spotipy.Spotify(auth_manager=auth_manager)
 
 # Main class
