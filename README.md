@@ -22,6 +22,10 @@ python3 setup.py install
 python3 main.py
 ```
 
+### Getting client secret
+
+To get this script working, you need to update line no 38 in main.py with your client id and client secret. In order to get those, Follow the steps here: https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b or get your client ID and secret by going to https://developer.spotify.com/dashboard
+
 # Getting playlist Id
 
 This script takes playlist id as input and then does further processing so it is important to know how to get your playlist id.
