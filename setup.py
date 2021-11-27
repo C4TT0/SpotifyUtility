@@ -17,10 +17,10 @@ dependency_links = [package.strip().replace('git+', '') for package in all_reqs 
 setup(
     name='SpotifyPlaylistDownloader',
     description='Tired of listening spotify ads? Then this tool is made for you !',
-    version='beta',
+    version='1.0.0',
     packages=find_packages(),  
     install_requires=install_requires,
-    python_requires='>=3.7',  
+    python_requires='>=3.6',  
     author="Typh0n12",
     url='https://github.com/Typh0n12/SpotifyPlaylistDownloader',
     classifiers=[
