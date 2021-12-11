@@ -1,3 +1,5 @@
+Version 2 Coming Soon
+
 # SpotifyPlaylistDownloader
 Tired of listening spotify ads? Then this tool is made for you !
 
